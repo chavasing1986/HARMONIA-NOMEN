@@ -1,0 +1,32 @@
+# HARMONIA NOMEN
+
+Aplicación React + TypeScript para generar firmas geométricas deterministas a partir de nombres.
+
+## Instalar
+
+```bash
+npm install
+npm run dev
+```
+
+## Compilar
+
+```bash
+npm run build
+npm run preview
+```
+
+La carpeta `dist/` puede desplegarse en Netlify, Vercel, GitHub Pages o cualquier hosting estático.
+
+## Funciones
+
+- Alfabeto español de 27 letras, incluida la Ñ.
+- FNV-1a y generador determinista.
+- 14 arquitecturas maestras parametrizadas.
+- Firma ceremonial y versión simplificada para fabricación.
+- Colgante dinámico de estilo hiperrealista.
+- Animación por trazado.
+- Exportación PNG, SVG real y JSON.
+- Responsive para computadora, tableta y móvil.
+
+Autoría visible: Salvador Sing Vázquez · Nexus Zero.
